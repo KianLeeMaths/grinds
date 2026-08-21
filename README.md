@@ -10,18 +10,11 @@ A simple English landing page for private Leaving Cert grinds and violin lessons
 - Applied Maths
 - Physics
 - Chemistry
+- French
 - Music
 - Violin
 
-## Before publishing
-
-1. Open `config.js` and set your real WhatsApp number:
-
-```js
-whatsappNumber: "353871234567",  // no + or spaces
-```
-
-2. Adjust the default enquiry message if you like.
+Enquiries: WhatsApp `083 312 1229` or `kian.lee.clonard@gmail.com`.
 
 ## GitHub Pages
 
