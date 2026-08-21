@@ -10,6 +10,7 @@ A simple English landing page for private Leaving Cert grinds and violin lessons
 - Applied Maths
 - Physics
 - Chemistry
+- French
 - Music
 - Violin
 
