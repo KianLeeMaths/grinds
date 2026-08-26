@@ -13,5 +13,3 @@ A simple English landing page for private Leaving Cert grinds and violin lessons
 - French
 - Music
 - Violin
-
-Enquiries: WhatsApp or Email.
