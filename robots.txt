@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://kianleemaths.github.io/grinds/sitemap.xml
+Sitemap: https://kianleeucd.github.io/grinds/sitemap.xml
